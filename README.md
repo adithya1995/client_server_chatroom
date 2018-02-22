@@ -9,5 +9,6 @@ python tcpserver.py
 - the default port number is 5000.<br />
 
 - Run the [client script](https://github.com/adithya1995/client_server_chatroom/blob/master/tcpclient.py) in another terminal.<br />
-```python client.py localhost 5000
+```
+python client.py localhost 5000
 ```
