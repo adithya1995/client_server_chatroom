@@ -3,8 +3,8 @@ A simple multi-user messaging application where data communication takes place f
 
 ## Instructions to run the scripts:
 - Run the [server script](https://github.com/adithya1995/client_server_chatroom/blob/master/tcpserver.py) in one terminal.<br />
-- `python tcpserver.py`<br />
+```python tcpserver.py```<br />
 - the default port number is 5000.<br />
 
 - Run the [client script](https://github.com/adithya1995/client_server_chatroom/blob/master/tcpclient.py) in another terminal.<br />
-- `python client.py localhost 5000`
+```python client.py localhost 5000```
