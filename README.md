@@ -6,7 +6,7 @@ A simple multi-user messaging application where data communication takes place f
 ```
 python tcpserver.py
 ```
-- the default port number is 5000.<br />
+- The default port number is 5000.<br />
 
 - Run the [client script](https://github.com/adithya1995/client_server_chatroom/blob/master/tcpclient.py) in another terminal.<br />
 ```
