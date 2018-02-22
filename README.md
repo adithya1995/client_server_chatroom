@@ -13,4 +13,4 @@ python tcpserver.py
 python client.py localhost 5000
 ```
 ## Screenshots:
-[alt text](Desktop/Screen Shot 2018-02-22 at 12.46.55 PM.png "Description goes here")
+<img width="566" alt="screen shot 2018-02-22 at 12 46 55 pm" src="https://user-images.githubusercontent.com/32382556/36564135-26414c60-17d1-11e8-9f9d-b67835d8743b.png">
