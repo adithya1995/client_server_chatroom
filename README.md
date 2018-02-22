@@ -14,3 +14,5 @@ python client.py localhost 5000
 ```
 ## Screenshots:
 <img width="566" alt="screen shot 2018-02-22 at 12 46 55 pm" src="https://user-images.githubusercontent.com/32382556/36564135-26414c60-17d1-11e8-9f9d-b67835d8743b.png">
+
+<img width="566" alt="screen shot 2018-02-22 at 12 51 45 pm" src="https://user-images.githubusercontent.com/32382556/36564187-55bf636e-17d1-11e8-93ed-4bd00620fd22.png">
