@@ -13,4 +13,4 @@ python tcpserver.py
 python client.py localhost 5000
 ```
 ## Screenshots:
-![alt text](screenshots/Screen Shot 2018-02-22 at 12.46.55 PM.png )
+[alt text](http://https://ibb.co/b8vcax/to/img.png)
